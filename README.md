@@ -3,12 +3,13 @@
 ## All Plan 
 1. the basical model  
 2. the method of modeling and simple algorithm  
-3. the article
+3. the article  
+4. the drawing and software
 ## Schedule Plan
 ### 2021-03-28 to 2021-04-18
-summary of model and algorithm to excel or word
-1.meeting----two weeks
-2.
+summary of model , algorithm, software and so on to excel or word  
+1.meeting----two weeks  
+2.submit the collected material
 ### 2021-04-21 to 2021-07
 train model and algorithm  
 ### cooming soon……
