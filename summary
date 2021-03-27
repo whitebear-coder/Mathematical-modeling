@@ -1,18 +1,36 @@
-## 注意
-C题图主要+机器学习and多目标规划模型
+## C注意
+C题图主要+机器学习and多目标规划模型  
 ### 2020C-C227
 模型：Voting集成学习算法， 多目标规划， Xgboost，系统聚类  
 软件：SPSS, MATLAB 
 ### 2020C-C142
-模型：PCA，BP神经网络，遗传算法
+模型：PCA，BP神经网络，遗传算法  
 软件：MATLAB，python
 ### 2020C-C305
-模型：logistic, 多目标规划
+模型：logistic, 多目标规划  
 软件：MATLAB, python
 ### 2020C-C109
-模型：梯度下降法，非线性规划，RF，集成学习算法
+模型：梯度下降法，非线性规划，RF，集成学习算法  
 软件：MATLAB，python
 ### 2020C-C170
-模型：熵权法，TOPSIS，logistic
+模型：熵权法，TOPSIS，logistic  
+软件：matlab，python
+## B
+###2020B-B078
+模型：最优化方法，贪心算法，回溯算法，决策模型，蒙特卡洛算法，博弈论
+软件：matlab，python
+###2020B-B108
+模型：动态规划，统计分析，博弈
+软件：matlab，python，C++
+其他：图片的形成
+###2020B-B125
+模型：动态规划，博弈论，马尔可夫链
+软件：matlab， python
+###2020B-B175
+模型：动态规划，博弈论，马尔可夫链，多决策模型
+软件：matlab，python
+##A
+热传导+模拟退火
+
 
 
